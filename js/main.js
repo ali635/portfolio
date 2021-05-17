@@ -14,8 +14,8 @@ doc.ready(function(){
 	  strings: ["Mohamed Ali", "Web Developer","Computer Enginnering"],
 	  smartBackspace: true, // Default value
 	  loop:true,
-	  backDelay: 5000,
-	  typeSpeed: 200
+	  backDelay: 2000,
+	  typeSpeed: 100
 	});
 
 	$('.navbar-nav').onePageNav({
