@@ -14,7 +14,7 @@ doc.ready(function(){
 	  strings: ["Mohamed Ali", "Web Developer","Computer Enginnering"],
 	  smartBackspace: true, // Default value
 	  loop:true,
-	  backDelay: 7000,
+	  backDelay: 5000,
 	  typeSpeed: 200
 	});
 
