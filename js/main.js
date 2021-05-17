@@ -15,7 +15,7 @@ doc.ready(function(){
 	  smartBackspace: true, // Default value
 	  loop:true,
 	  backDelay: 2000,
-	  typeSpeed: 30
+	  typeSpeed: 100
 	});
 
 	$('.navbar-nav').onePageNav({
